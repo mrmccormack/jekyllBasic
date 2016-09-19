@@ -12,3 +12,7 @@ Hey there! My name is **Babji, Chetty**.
 <strong>hello world</strong>
 
 ```
+
+{% highlight html%}
+hello world
+{% endhighlight %}

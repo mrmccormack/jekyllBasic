@@ -1,11 +1,9 @@
 # Build settings
 # Gems
-source 'https://rubygems.org'
 
 gems: 
 - jekyll-paginate
 - jekyll-feed
-- github-pages
 
 
 

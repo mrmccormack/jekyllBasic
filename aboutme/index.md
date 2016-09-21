@@ -6,7 +6,7 @@ comments: false
 
 Hey there! My name is **Babji, Chetty**.
 
-# Here is some sample colored code xx
+# Here is some sample colored code yy
 
 ```html
 <strong>hello world</strong>

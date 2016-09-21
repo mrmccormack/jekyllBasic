@@ -18,3 +18,11 @@ Hey there! My name is **Babji, Chetty**.
   hello world
 {% endhighlight %}
 
+
+# Another test
+
+```scala
+def test(i: Int): Unit = {
+   println(i)
+ }
+```
